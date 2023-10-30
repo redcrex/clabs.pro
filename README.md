@@ -1,2 +1,2 @@
 # clabs.pro
-Tongkonan Community Education
+Lear Crypto To Earn Crypto
