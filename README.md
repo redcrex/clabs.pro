@@ -1,2 +1,2 @@
 # clabs.pro
-Lear Crypto To Earn Crypto
+Learn Crypto To Earn Crypto
